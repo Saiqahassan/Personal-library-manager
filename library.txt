@@ -1,0 +1,1 @@
+[{"title": "Ghost in the house", "author": "Muhammad Sami", "year": "2025", "genre": "Horror", "read": true}]
